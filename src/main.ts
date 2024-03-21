@@ -8,9 +8,9 @@ import { Card1Component } from './app/card1/card1.component';
   standalone: true,
   imports: [Card1Component],
   template: `
-    <h1>Hello from {{ name }}!</h1>
-    <a target="_blank" href="https://angular.dev/overview">
-      Learn more about Angular
+    <h1>CSS Nesting Demo</h1>
+    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting">
+      Learn more about native CSS nesting
     </a>
     <app-card1></app-card1>
   `,
