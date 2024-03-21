@@ -1,5 +1,7 @@
+$bg-color: #ccc;
+
 section {
-    background: #ccc;
+    background: $bg-color;
     padding: 0.5rem;
 
     h2 {
