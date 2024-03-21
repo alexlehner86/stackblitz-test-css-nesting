@@ -9,7 +9,7 @@ import { Card2Component } from './app/card2/card2.component';
   standalone: true,
   imports: [Card1Component, Card2Component],
   template: `
-    <h1>CSS Nesting Demo</h1>
+    <h1>Angular Test: Combined Use of SCSS and CSS</h1>
     <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting">
       Learn more about native CSS nesting
     </a>
